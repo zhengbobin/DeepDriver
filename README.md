@@ -1,4 +1,4 @@
-# DeepDriver
+# DeepDriver（开源深度学习平台）
 This is a Deep Learning framework projects written with JAVA, including:
 - ANN, the forward feed neural network
 - DNN, a deep ANN
